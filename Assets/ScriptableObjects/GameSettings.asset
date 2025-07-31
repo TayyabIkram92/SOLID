@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fee7a38a54624f2faf67ac8d2dcdd48e, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  rollTimer: 10
+  moveTimer: 15
+  aiRollDelay: 2
+  aiMoveDelay: 3
+  maxConsecutiveSixes: 3
+  valueToExitHome: 6
